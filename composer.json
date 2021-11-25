@@ -1,5 +1,5 @@
 {
-    "name": "sylius/resource-bundle",
+    "name": "mstodulski/sylius-resource-bundle",
     "type": "symfony-bundle",
     "description": "Resource component for Sylius.",
     "keywords": [
