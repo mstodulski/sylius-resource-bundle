@@ -1,5 +1,5 @@
 {
-    "name": "sylius/resource",
+    "name": "mstodulski/sylius-resource",
     "type": "library",
     "description": "Basic resource interfaces for PHP applications.",
     "keywords": [
